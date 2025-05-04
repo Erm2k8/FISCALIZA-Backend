@@ -1,0 +1,1 @@
+# Esquemas de resposta e requisição para rotas dos usuários

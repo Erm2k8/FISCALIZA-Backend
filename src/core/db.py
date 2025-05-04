@@ -1,0 +1,1 @@
+# Arquivo destinado às ações do banco de dados

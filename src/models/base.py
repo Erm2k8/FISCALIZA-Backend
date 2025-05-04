@@ -1,0 +1,1 @@
+# Modelo de base para outros modelos de dados

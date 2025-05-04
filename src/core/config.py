@@ -1,0 +1,1 @@
+# Arquivo de configurações do framework, definição de variáveis globais e definição de preferências

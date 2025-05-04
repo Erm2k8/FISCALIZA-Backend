@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.pytest_cache/
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Variáveis de ambiente
+.env
+.env.*
+.local.env
+
+# IDEs e editores
+.idea/
+.vscode/
+.DS_Store
+
+# Banco de dados local
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# Arquivos gerados
+dist/
+build/

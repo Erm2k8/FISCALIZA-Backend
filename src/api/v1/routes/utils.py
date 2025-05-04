@@ -1,0 +1,1 @@
+# Rotas úteis, como validações pertinentes e checagem de saúde do sistema
